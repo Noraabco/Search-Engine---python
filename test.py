@@ -2,7 +2,7 @@
 A file that contains tests for Document class and
 search_engine class
 """
-from cse163_utils import assert_equals
+from utils import assert_equals
 from document import Document
 from search_engine import SearchEngine
 
