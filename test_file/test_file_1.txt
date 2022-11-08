@@ -1,0 +1,2 @@
+Dog likes cat
+but dog doesn't like fish
