@@ -1,8 +1,4 @@
 """
-Aaron Liu
-CSE163 AI
-2/8/2021
-
 A file that contains tests for Document class and
 search_engine class
 """

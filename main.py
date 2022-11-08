@@ -1,11 +1,11 @@
-# Author Dylan Jergens
+# Author Aaron Liu
 # This program runs the search engine, taking user input
 
 from search_engine import SearchEngine
 
 
 def main():
-    print('Welcome to 6oog13!!')
+    print('Welcome to Searchy Dog!!')
     directory = input('Please enter a the name of a directory: ')
 
     print('Building Search Engine...')

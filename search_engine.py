@@ -1,8 +1,4 @@
 """
-Aaron Liu
-CSE 163 AI
-02/06/2021
-
 File contain the class SearchEngine. Class contain a private
 function _calculate_idf that calculate the Inverted Index frequency
 for the given word. A function search that will return a list of

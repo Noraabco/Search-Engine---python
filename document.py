@@ -1,8 +1,4 @@
 """
-Aaron Liu
-CSE 163 AI
-02/06/2021
-
 File contain the class Document, represent single
 file in the SearchEngine. Class contain function
 get_path that return the path of document, term_frequency
